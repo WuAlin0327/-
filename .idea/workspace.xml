@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="121b49fb-7c60-4718-8d8d-bfb47f78de6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/spiders/qiushi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/spiders/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/spiders/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/firstBlood/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/spiders/qiushi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiubai/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiubai.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiubai.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiubai.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiubai.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/spiders/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/spiders/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy框架/qiushi/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/自动化工具的使用/获取豆瓣电影动态加载的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/自动化工具的使用/获取豆瓣电影动态加载的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/自动化工具的使用/豆瓣喜剧电影排行榜.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,22 +45,25 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1546346691991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小爬虫" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="小爬虫 Coverage Results" MODIFIED="1546347915479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小爬虫" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="获取豆瓣电影动态加载的数据 Coverage Results" MODIFIED="1546520643734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化工具的使用" />
     <SUITE FILE_PATH="coverage/$xpath.coverage" NAME="xpath实战演练 Coverage Results" MODIFIED="1546234570634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据解析" />
     <SUITE FILE_PATH="coverage/$bs.coverage" NAME="使用bs爬取三国演绎小说 Coverage Results" MODIFIED="1546238931837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据解析" />
     <SUITE FILE_PATH="coverage/$selenuim.coverage" NAME="selenuim的使用 Coverage Results" MODIFIED="1546244387444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化工具的使用" />
-    <SUITE FILE_PATH="coverage/$settings.coverage" NAME="settings Coverage Results" MODIFIED="1546350181600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy框架/qiubai/qiubai" />
-    <SUITE FILE_PATH="coverage/$phantomjs.coverage" NAME="phantomjs的使用 Coverage Results" MODIFIED="1546245387056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化工具的使用" />
+    <SUITE FILE_PATH="coverage/$settings.coverage" NAME="settings Coverage Results" MODIFIED="1546392681221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy框架/qiubai/qiubai" />
+    <SUITE FILE_PATH="coverage/$phantomjs.coverage" NAME="phantomjs的使用 Coverage Results" MODIFIED="1546520252573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化工具的使用" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-997187256">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,11 +72,11 @@
           <entry key="csv" value="2" />
           <entry key="html" value="3" />
           <entry key="jpg" value="23" />
-          <entry key="log" value="1" />
+          <entry key="log" value="2" />
           <entry key="png" value="26" />
-          <entry key="py" value="42" />
+          <entry key="py" value="82" />
           <entry key="text" value="1" />
-          <entry key="txt" value="16" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -48,92 +84,27 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="49" />
           <entry key="Ini" value="4" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="42" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="10922" />
+          <entry key="py" value="15861" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="10922" />
+          <entry key="Python" value="15861" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <marker date="1546340739000" expanded="true" signature="199:204" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-237" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/spiders/qiushi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据解析/使用bs爬取三国演绎小说.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-              <folding>
-                <marker date="1546350414000" expanded="true" signature="353:470" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,8 +127,6 @@
         <option value="$PROJECT_DIR$/数据解析/xpath实战演练.py" />
         <option value="$PROJECT_DIR$/数据解析/使用bs爬取三国演绎小说.py" />
         <option value="$PROJECT_DIR$/自动化工具的使用/selenuim的使用.py" />
-        <option value="$PROJECT_DIR$/自动化工具的使用/phantomjs的使用.py" />
-        <option value="$PROJECT_DIR$/自动化工具的使用/获取豆瓣电影动态加载的数据.py" />
         <option value="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/settings.py" />
         <option value="$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/spiders/first.py" />
         <option value="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/items.py" />
@@ -165,12 +134,34 @@
         <option value="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/settings.py" />
         <option value="$PROJECT_DIR$/scrapy框架/qiushi/qiushi/pipelines.py" />
         <option value="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/items.py" />
-        <option value="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/spiders/qiushi.py" />
         <option value="$PROJECT_DIR$/小爬虫/test.py" />
         <option value="$PROJECT_DIR$/小爬虫/爬妹子图.py" />
         <option value="$PROJECT_DIR$/小爬虫/小爬虫.py" />
-        <option value="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/settings.py" />
         <option value="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/qiushiPage/qiushiPage/items.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/qiushiPage/qiushiPage/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/qiushiPage/qiushiPage/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/qiushiPage/qiushiPage/spiders/qiushi.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/qiubai/qiubai/spiders/qiushi.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/代理和cookie/postDemo/postDemo/spiders/post_request.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/代理和cookie/postDemo/postDemo/middlewares.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/代理和cookie/postDemo/postDemo/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/moviePro/moviePro/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/moviePro/moviePro/items.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/moviePro/moviePro/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/crawlPro/crawlPro/spiders/crawlDemo.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/crawlSpider/crawlSpider/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/crawlSpider/crawlSpider/spiders/chouti.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/redisPro/redisPro/items.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/redisPro/redisPro/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/redisPro/redisPro/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/redisPro/redisPro/spiders/qiubai.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/moviePro/moviePro/spiders/movie.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/wangyiPro/wangyiPro/settings.py" />
+        <option value="$PROJECT_DIR$/scrapy框架/wangyiPro/wangyiPro/spiders/wangyi.py" />
+        <option value="$PROJECT_DIR$/自动化工具的使用/phantomjs的使用.py" />
+        <option value="$PROJECT_DIR$/自动化工具的使用/获取豆瓣电影动态加载的数据.py" />
       </list>
     </option>
   </component>
@@ -181,10 +172,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="y" value="23" />
+    <option name="x" value="598" />
+    <option name="y" value="64" />
     <option name="width" value="1920" />
-    <option name="height" value="974" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,28 +193,7 @@
             <path>
               <item name="爬虫相关" type="b2602c69:ProjectViewProjectNode" />
               <item name="爬虫相关" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫相关" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫相关" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="qiubai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫相关" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫相关" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="qiubai" type="462c0819:PsiDirectoryNode" />
-              <item name="qiubai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫相关" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫相关" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="qiubai" type="462c0819:PsiDirectoryNode" />
-              <item name="qiubai" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="自动化工具的使用" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="爬虫相关" type="b2602c69:ProjectViewProjectNode" />
@@ -234,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +214,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scrapy框架/基础使用与持久化存储" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scrapy框架" />
       <recent name="$PROJECT_DIR$/自动化工具的使用" />
     </key>
   </component>
@@ -260,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.settings">
+  <component name="RunManager" selected="Python.获取豆瓣电影动态加载的数据">
     <configuration name="获取豆瓣电影动态加载的数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫相关" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -371,6 +345,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="phantomjs的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫相关" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化工具的使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化工具的使用/phantomjs的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫相关" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -417,18 +413,16 @@
     </configuration>
     <list>
       <item itemvalue="Python.获取豆瓣电影动态加载的数据" />
-      <item itemvalue="Python.爬妹子图" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.小爬虫" />
       <item itemvalue="Python.settings" />
+      <item itemvalue="Python.phantomjs的使用" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.settings" />
-        <item itemvalue="Python.小爬虫" />
-        <item itemvalue="Python.爬妹子图" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.获取豆瓣电影动态加载的数据" />
+        <item itemvalue="Python.phantomjs的使用" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -457,28 +451,34 @@
       <option name="project" value="LOCAL" />
       <updated>1546318940353</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="scrapy框架">
+      <created>1546350461300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546350461300</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="476" y="23" width="1920" height="974" extended-state="0" />
-    <editor active="true" />
+    <frame x="598" y="64" width="1920" height="960" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11075612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11395101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32945284" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893504" weight="0.3289941" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.3993015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32945284" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32945284" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5165069" weight="0.33491126" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -502,297 +502,291 @@
     <option name="LAST_COMMIT_MESSAGE" value="scrapy框架" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/ghostdriver.log" />
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/豆瓣.txt" />
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/豆瓣.html" />
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/豆瓣喜剧电影数据.txt" />
-    <entry file="file://$PROJECT_DIR$/数据解析/爬取糗事百科图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据解析/xpath的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/selenuim的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/豆瓣喜剧电影排行榜.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/获取豆瓣电影动态加载的数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自动化工具的使用/phantomjs的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）2.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）1.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/性感国模冯木木大尺度私拍 暧昧氛围惹人欲望高涨.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/爬妹子图.py" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/0.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/1.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/4.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/6.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/7.png" />
+    <entry file="file://$PROJECT_DIR$/小爬虫/小爬虫.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tarfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="2018" column="8" selection-start-line="2018" selection-start-column="8" selection-end-line="2018" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/spiders/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/firstBlood/firstBlood/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="10" selection-start-line="19" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/段子.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-919" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/qiubai.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/qiubai.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/qiushi/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="15" />
-          <folding>
-            <marker date="1546323851000" expanded="true" signature="199:204" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/qiushi/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/qiushi/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <marker date="1546334040000" expanded="true" signature="274:283" ph="..." />
-            <marker date="1546334040000" expanded="true" signature="313:400" ph="..." />
-            <marker date="1546334040000" expanded="true" signature="495:504" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/firstBlood/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiushi/qiushi/spiders/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="17" column="33" selection-start-line="17" selection-end-line="18" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/scrapy/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据解析/xpath实战演练.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）9.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/妹子图.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）/尤物扎堆，标配丰乳肥臀 花漾写真年度精彩瞬间合集（下）1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/性感国模冯木木大尺度私拍 暧昧氛围惹人欲望高涨.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/爬妹子图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小爬虫/小爬虫.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据解析/使用bs爬取三国演绎小说.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/多个url页面数据爬取/qiubaiByPages/qiubai.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushiPage/qiushiPage/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="9" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushi/qiushi/spiders/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="33" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiubai/qiubai/spiders/qiushi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushiPage/qiushiPage/spiders/qiushi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushiPage/糗事.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11066">
+          <caret line="503" selection-start-line="503" selection-end-line="503" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/代理和cookie/postDemo/postDemo/spiders/post_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/代理和cookie/postDemo/postDemo/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushiPage/qiushiPage/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" selection-start-line="66" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/qiushiPage/qiushiPage/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/代理和cookie/postDemo/postDemo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/基础使用与持久化存储/firstBlood/firstBlood/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="10" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/moviePro/moviePro/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1546431207000" expanded="true" signature="308:460" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/middlewares.py">
+    <entry file="file://$PROJECT_DIR$/scrapy框架/moviePro/moviePro/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-237" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/spiders/qiushi.py">
+    <entry file="file://$PROJECT_DIR$/scrapy框架/crawlPro/crawlPro/spiders/crawlDemo.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy框架/crawlSpider/crawlSpider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="293">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/scrapy/spiders/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/crawlSpider/crawlSpider/spiders/chouti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/items.py">
+    <entry file="file://$PROJECT_DIR$/scrapy框架/redisPro/redisPro/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/redisPro/redisPro/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/moviePro/moviePro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="19" column="20" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/redisPro/redisPro/spiders/qiubai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="23" column="91" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="91" />
           <folding>
-            <marker date="1546340739000" expanded="true" signature="199:204" ph="..." />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy框架/qiubai/qiubai/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/scrapy框架/moviePro/moviePro/spiders/movie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        <state relative-caret-position="345">
+          <caret line="17" column="96" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
           <folding>
-            <marker date="1546350414000" expanded="true" signature="353:470" ph="..." />
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1546432184000" expanded="true" signature="269:278" ph="..." />
+            <marker date="1546432184000" expanded="true" signature="269:1144" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/wangyiPro/wangyiPro/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/redisPro/redisPro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="19" column="5" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/wangyiPro/wangyiPro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy框架/wangyiPro/wangyiPro/spiders/wangyi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <marker date="1546518790000" expanded="true" signature="214:223" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化工具的使用/ghostdriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化工具的使用/phantomjs的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="1498" selection-start-line="1498" selection-end-line="1498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化工具的使用/豆瓣喜剧电影排行榜.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化工具的使用/获取豆瓣电影动态加载的数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>

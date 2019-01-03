@@ -1,8 +1,11 @@
 from selenium import webdriver
+
 import time
 from lxml import etree
 bro = webdriver.Chrome('./chromedriver')
 url = 'https://movie.douban.com/typerank?type_name=%E5%96%9C%E5%89%A7&type=24&interval_id=100:90&action='
+
+
 bro.get(url)
 
 # 等待五秒页面加载完毕

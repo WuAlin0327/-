@@ -66,8 +66,8 @@ ROBOTSTXT_OBEY = False
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'qiubai.pipelines.QiubaiPipeline': 300,
-   'qiubai.pipelines.QiubaiFiles': 400,
-   'qiubai.pipelines.QiubaiMySQL': 500
+   # 'qiubai.pipelines.QiubaiFiles': 400,
+   # 'qiubai.pipelines.QiubaiMySQL': 500
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
